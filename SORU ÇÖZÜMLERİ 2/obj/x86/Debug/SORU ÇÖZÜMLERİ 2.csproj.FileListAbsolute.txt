@@ -1,0 +1,25 @@
+C:\Users\MURAT BİLGİNER\Desktop\ \4 C# PROJELERİM\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\bin\Debug\SORU ÇÖZÜMLERİ 2.exe
+C:\Users\MURAT BİLGİNER\Desktop\ \4 C# PROJELERİM\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\bin\Debug\SORU ÇÖZÜMLERİ 2.pdb
+C:\Users\MURAT BİLGİNER\Desktop\ \4 C# PROJELERİM\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MURAT BİLGİNER\Desktop\ \4 C# PROJELERİM\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.exe
+C:\Users\MURAT BİLGİNER\Desktop\ \4 C# PROJELERİM\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.pdb
+H:\Users\MURAT BİLGİNER\Desktop\ \4 C# PROJELERİM\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.exe
+H:\Users\MURAT BİLGİNER\Desktop\ \4 C# PROJELERİM\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.pdb
+E:\x\ \MURAT BİLGİNER\1 EĞİTİM\1 ENDÜSTRİ MÜHENDİSLİĞİ\1. SINIF\2 BAHAR DÖNEMİ\1 BİLGİSAYAR PROGRAMLAMA\12. ÖZEL DOSYA\C# PROJELERİM\CONSOLE\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.exe
+E:\x\ \MURAT BİLGİNER\1 EĞİTİM\1 ENDÜSTRİ MÜHENDİSLİĞİ\1. SINIF\2 BAHAR DÖNEMİ\1 BİLGİSAYAR PROGRAMLAMA\12. ÖZEL DOSYA\C# PROJELERİM\CONSOLE\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.pdb
+E:\x\ \MURAT BİLGİNER\1 EĞİTİM\1 ENDÜSTRİ MÜHENDİSLİĞİ\1. SINIF\2 BAHAR DÖNEMİ\1 BİLGİSAYAR PROGRAMLAMA\12. ÖZEL DOSYA\C# PROJELERİM\CONSOLE\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\bin\Debug\SORU ÇÖZÜMLERİ 2.exe
+E:\x\ \MURAT BİLGİNER\1 EĞİTİM\1 ENDÜSTRİ MÜHENDİSLİĞİ\1. SINIF\2 BAHAR DÖNEMİ\1 BİLGİSAYAR PROGRAMLAMA\12. ÖZEL DOSYA\C# PROJELERİM\CONSOLE\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\bin\Debug\SORU ÇÖZÜMLERİ 2.pdb
+E:\x\ \MURAT BİLGİNER\1 EĞİTİM\1 ENDÜSTRİ MÜHENDİSLİĞİ\1. SINIF\2 BAHAR DÖNEMİ\1 BİLGİSAYAR PROGRAMLAMA\12. ÖZEL DOSYA\C# PROJELERİM\CONSOLE\SORU ÇÖZÜMLERİ 2\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\C# PROJELERİM\1 CONSOLE\2 SORU ÇÖZÜMÜ\19 GİRİLEN SAYIYI 2 LİK DÜZENE ÇEVİRME\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.exe
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\C# PROJELERİM\1 CONSOLE\2 SORU ÇÖZÜMÜ\19 GİRİLEN SAYIYI 2 LİK DÜZENE ÇEVİRME\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.pdb
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\C# PROJELERİM\1 CONSOLE\2 SORU ÇÖZÜMÜ\19 GİRİLEN SAYIYI 2 LİK DÜZENE ÇEVİRME\SORU ÇÖZÜMLERİ 2\bin\Debug\SORU ÇÖZÜMLERİ 2.exe
+G:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\C# PROJELERİM\1 CONSOLE\2 SORU ÇÖZÜMÜ\19 GİRİLEN SAYIYI 2 LİK DÜZENE ÇEVİRME\SORU ÇÖZÜMLERİ 2\bin\Debug\SORU ÇÖZÜMLERİ 2.pdb
+E:\04 - Yazılım\04 - Form Projeleri\80 2'lik Tabana Çevirme\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.exe
+E:\04 - Yazılım\04 - Form Projeleri\80 2'lik Tabana Çevirme\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.pdb
+E:\04 - Yazılım\04 - Form Projeleri\80 2'lik Tabana Çevirme\SORU ÇÖZÜMLERİ 2\bin\Debug\SORU ÇÖZÜMLERİ 2.exe
+E:\04 - Yazılım\04 - Form Projeleri\80 2'lik Tabana Çevirme\SORU ÇÖZÜMLERİ 2\bin\Debug\SORU ÇÖZÜMLERİ 2.pdb
+G:\OneDrive\03 Software\02 Github Projects\02 C# Console Projeleri\C 1 2'lik Tabana Çevirme\SORU ÇÖZÜMLERİ 2\bin\Debug\SORU ÇÖZÜMLERİ 2.exe
+G:\OneDrive\03 Software\02 Github Projects\02 C# Console Projeleri\C 1 2'lik Tabana Çevirme\SORU ÇÖZÜMLERİ 2\bin\Debug\SORU ÇÖZÜMLERİ 2.pdb
+G:\OneDrive\03 Software\02 Github Projects\02 C# Console Projeleri\C 1 2'lik Tabana Çevirme\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.csprojAssemblyReference.cache
+G:\OneDrive\03 Software\02 Github Projects\02 C# Console Projeleri\C 1 2'lik Tabana Çevirme\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.exe
+G:\OneDrive\03 Software\02 Github Projects\02 C# Console Projeleri\C 1 2'lik Tabana Çevirme\SORU ÇÖZÜMLERİ 2\obj\x86\Debug\SORU ÇÖZÜMLERİ 2.pdb
